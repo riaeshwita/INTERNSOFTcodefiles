@@ -2,5 +2,5 @@
 
 <h2> 👽 INTERNSHIP ON ARTIFICIAL INTELLIGENCE, DATA SCIENCE AND MACHINE LEARNING </h2>
 
-<h3>🏢 @AiRobosoft Products and Services, Bangalore</h3>
+<h3 align="center">🏢 @AiRobosoft Products and Services, Bangalore</h3>
 
